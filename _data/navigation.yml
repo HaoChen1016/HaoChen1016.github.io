@@ -3,6 +3,15 @@ main:
   - title: "Project/Research"
     url: /project_research/
     
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/ 
+    
   - title: "CV"
     url: https://HaoChen1016.github.io//files/Hao_Chen_CV.pdf
+
+  - title: "More About Me"
+    url: /moreaboutme/ 
   
