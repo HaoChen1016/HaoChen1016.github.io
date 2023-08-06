@@ -1,7 +1,7 @@
 # main links links
 main:  
-  - title: "Project Details"
-    url: /portfolio/
+  - title: "Project/Research"
+    url: /project_research/
     
   - title: "CV"
     url: https://HaoChen1016.github.io//files/Hao_Chen_CV.pdf
