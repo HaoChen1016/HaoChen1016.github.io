@@ -4,6 +4,7 @@ title: "Project/Research"
 ---
 ### NSF-NRI: Safe Wind-Aware Navigation for Collaborative Autonomous Aircraft in Low Altitude Airspace (Sep 2019 – Dec 2023 (Expected))
 #### Research Assistant, Control, Robotics and Automation Laboratory (CoRAL), OSU, Stillwater, OK, USA. 
+
 The project aims to validate the hypothesis that 'in-time' gust awareness by a pilot or an autopilot, can enhance safety, efficiency and robustness of future autonomous aircraft operations in low altitude airspace. Towards this objective, the research team will investigate novel learning tools to model piloting behaviors, design safe and efficient wind aware path planning algorithms, and importantly, construct short-term gust forecast models with wind measurements. The team will develop a high-fidelity simulation framework that integrates turbulence modeling, guidance, navigation, control, and pilot-aircraft interface to demonstrate autonomous and remotely-piloted aircraft flying through urban canopies with improved predictability and increased endurance. A recommendation system that facilitates pilot-aircraft interactions will be produced and demonstrated through both simulations and experiments. My work mainly includes:
 - System modeling. We build mathematical models for nonlinear quadcopter dynamics which are integrated with various drag, thrust and wind models. 
 - Estimation algorithm design for single agent states and wind estimation. We develop invariant EKFs (IEKFs) by taking advantage of symmetry in the system, and IEKFs show better transient performance compared to EKFs.
