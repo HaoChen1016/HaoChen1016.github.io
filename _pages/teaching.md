@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: ""
 ---
 
 ## Oklahoma State University (Stillwater, Oklahoma, USA, 74075)
