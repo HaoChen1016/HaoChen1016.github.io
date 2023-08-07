@@ -12,3 +12,9 @@ The project aims to validate the hypothesis that 'in-time' gust awareness by a p
 - Machine learning methods for states and wind estimation. We train DNN to obtain the accurate thrust model and LSTM for wind estimation.
 - MATLAB/Simulink simulation validation. The MATLAB/Simulink simulation model integrates quadcopter dynamics, motor/rotor models, sensor models, wind models, estimators, controllers, and path planner.
 - Indoor/outdoor experiments validation. For indoor experiments, we built a thrust stand for obtaining thrust model, a mobile robot for ground truth wind collection, and we used a motion capture system for pose feedback and small-size quadcopter for flight test. For outdoor experiments, we conducted multiples outdoor experiments by using a large-size quadcopter for hovering test and various wind sensors for collecting true wind.
+
+
+### “Challenge Cup” Competition: Multi-robot collaboration system for education and experimental purpose in structured environment (Sep 2016 – May 2018)
+#### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
+
+- “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition: Multi-robot collaboration system for education and experimental purpose in structured environment. We develop path planning and collision avoidance strategy based on improved A star algorithm for multi-robot system in grid space.
