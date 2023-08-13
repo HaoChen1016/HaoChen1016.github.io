@@ -14,19 +14,6 @@ gallery:
     image_path: project_research/SK8.jpg
     alt: "SK8"
     title: "SK8"
-gallery1:
-  - url: project_research/SK8_hover.jpg
-    image_path: project_research/SK8_hover.jpg
-    alt: "SK8_hoverTest"
-    title: "SK8_hoverTest"
-  - url: project_research/SK8_hover1.jpg
-    image_path: project_research/SK8_hover1.jpg
-    alt: "SK8_hoverTest1"
-    title: "SK8_hoverTest1"
-  - url: project_research/SK8.jpg
-    image_path: project_research/SK8.jpg
-    alt: "SK8"
-    title: "SK8"
 ---
 ### NSF-NRI: Safe Wind-Aware Navigation for Collaborative Autonomous Aircraft in Low Altitude Airspace (Sep 2019 – Dec 2023 (Expected))
 #### Research Assistant, Control, Robotics and Automation Laboratory (CoRAL), OSU, Stillwater, OK, USA. 
@@ -38,7 +25,6 @@ The project aims to validate the hypothesis that 'in-time' gust awareness by a p
 - MATLAB/Simulink simulation validation. The MATLAB/Simulink simulation model integrates quadcopter dynamics, motor/rotor models, sensor models, wind models, estimators, controllers, and path planner.
 - Indoor/outdoor experiments validation. For indoor experiments, we built a thrust stand for obtaining thrust model, a mobile robot for ground truth wind collection, and we used a motion capture system for pose feedback and small-size quadcopter for flight test. For outdoor experiments, we conducted multiples outdoor experiments by using a large-size quadcopter for hovering test and various wind sensors for collecting true wind.
 {% include gallery %}
-{% include gallery1 %}
 ### “Challenge Cup” Competition: Multi-robot collaboration system for education and experimental purpose in structured environment (Sep 2016 – May 2018)
 #### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
 “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition: Multi-robot collaboration system for education and experimental purpose in structured environment. We develop path planning and collision avoidance strategy based on improved A star algorithm for multi-robot system in grid space.
