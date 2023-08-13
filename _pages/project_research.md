@@ -6,6 +6,10 @@ gallery:
     image_path: project_research/SK8_hover.jpg
     alt: "SK8_hoverTest"
     title: "SK8_hoverTest"
+  - url: project_research/SK8_hover1.jpg
+    image_path: project_research/SK8_hover1.jpg
+    alt: "SK8_hoverTest1"
+    title: "SK8_hoverTest1"
   - url: project_research/SK8.jpg
     image_path: project_research/SK8.jpg
     alt: "SK8"
