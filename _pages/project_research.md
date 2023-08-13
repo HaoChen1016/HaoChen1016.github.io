@@ -29,7 +29,7 @@ The project aims to validate the hypothesis that 'in-time' gust awareness by a p
 #### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
 “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition: Multi-robot collaboration system for education and experimental purpose in structured environment. We develop path planning and collision avoidance strategy based on improved A star algorithm for multi-robot system in grid space.
 
-![](images/project_research/SK8.jpg){width="200"}![](images/project_research/SK8_hover.jpg){width="200"}
+<img src="[images/project_research/SK8.jpg](https://github.com/HaoChen1016/HaoChen1016.github.io/blob/master/images/project_research/SK8.jpg)" width="200"><img src="https://github.com/HaoChen1016/HaoChen1016.github.io/blob/master/images/project_research/SK8_hover.jpg" width="200">
 
 ### The upper compter software design of XY axis drawing robot (Mar 2017 – Jul 2017)
 #### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
