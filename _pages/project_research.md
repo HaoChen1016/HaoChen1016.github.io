@@ -28,15 +28,11 @@ The project aims to validate the hypothesis that 'in-time' gust awareness by a p
 ### “Challenge Cup” Competition: Multi-robot collaboration system for education and experimental purpose in structured environment (Sep 2016 – May 2018)
 #### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
 “Challenge Cup” National College Student Curricular Academic Science and Technology Works Competition: Multi-robot collaboration system for education and experimental purpose in structured environment. We develop path planning and collision avoidance strategy based on improved A star algorithm for multi-robot system in grid space.
-![SK8](/images/project_research/SK8.jpg)![SK8](/images/project_research/SK8_hover.jpg)
+
 ### The upper compter software design of XY axis drawing robot (Mar 2017 – Jul 2017)
 #### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
 This project uses MATLAB to design the upper computer software of the XY axis drawing robot GUI. The input of the original image is from video photography or local image input, and then the image is grayed out and binarization. Based on this, the image boundaries are obtained through the eight adjacency method, and then the boundaries are converted into images to achieve image contour extraction. Secondly, the same image is binarized according to different thresholds and divided into four images with different black and white degrees. In order to achieve a sketching effect on the drawn image, four different filling methods were used, including along the X and Y axis at 45 and -135 degrees. The designed software can achieve good drawing and sketching performance.
-## Gallery 1
-<div class="gallery">
-    <img src="/images/project_research/SK8.jpg" alt="Image 1">
-    <img src="/images/project_research/SK8_hover.jpg" alt="Image 2">
-</div>
+
 ### 2017 (2nd) University Robot Competition of Sichuan Province
 #### Undergraduate, Special Environment Key Laboratory of Sichuan Province, Southwest University of Science and Technogy, Mianyang, Sichuan, China. 
 This competition requires to build a robot which can carry cylindrical building blocks to designated locations and use them to build designated shapes. The first robot to complete the construction of marked in the shape of the letter V in the middle of the competition venue will be the winner, with a competition time of 3 minutes. My work includes motion control and SLAM navigation of the robot.
