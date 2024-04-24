@@ -12,7 +12,7 @@ author_profile: true
 
 ## Accepted/Submitted Papers
 - Chen, H. and Bai, H., 2023. Wind Field Estimation Using Multiple Quadcopters. Modeling, Estimation and Control Conference 2023.
-- Chen, H. and Bai, H., 2024. Model-based invariant filters for quadcopter wind estimation. IEEE Transactions on Aerospace and Electronic Systems.
+- [Chen, H. and Bai, H., 2024. Model-based invariant filters for quadcopter wind estimation. IEEE Transactions on Aerospace and Electronic Systems.](https://HaoChen1016.github.io//files/Hao_Chen_CV_English_Version.pdf)
 
 ## In Preparation Papers
 - Chen, H., Bai, H., Jacob, J. and Revard, B., 2024. Experimental validation of dynamics-based wind estimation for quadcopters. AIAA Science and Technology Forum and Exposition. 
