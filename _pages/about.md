@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a Ph.D. candidate in mechanical and aerospace engineering with the school of mechanical and aerospace engineering, Oklahoma State University, advised by [associate professor Dr.He Bai](https://ceat.okstate.edu/mae/faculty-staff/faculty-bios/he-bai.html). I received the B.E. degree in Automation from Southwest University of Science and Technology, Mianyang, Sichuan, China in 2019. My research includes navigation, localization, perception, control and sensor/data fusion of unmanned aerial vehicles (UAV)/Robotics. I have 7+ years of C++/MATLAB/Python/ROS programming and hands-on experience in UAV/Robotics. Besides, I am able to use various machine learning methods to solve engineering problems. 
+Welcome! I am currently working as the Postdoctoral Fellow in Hong Kong Center for Construction Robotics, the Hong Kong University of Science and Technology. I obtained my Ph.D. degree in mechanical and aerospace engineering with the school of mechanical and aerospace engineering, Oklahoma State University, advised by [associate professor Dr.He Bai](https://ceat.okstate.edu/mae/faculty-staff/faculty-bios/he-bai.html). I received the B.E. degree in Automation from Southwest University of Science and Technology, Mianyang, Sichuan, China in 2019. My research includes navigation, localization, perception, control and sensor/data fusion of unmanned aerial vehicles (UAV)/Robotics. I have 7+ years of C++/MATLAB/Python/ROS programming and hands-on experience in UAV/Robotics. Besides, I am able to use various machine learning methods to solve engineering problems. 
 
 ### Skills
 - Algorithm:
